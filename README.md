@@ -1,4 +1,4 @@
-# Strategic Network Optimization: A Data-Driven Approach to the Multi-Facility Location Problem
+# Strategic Facility Location: A Data-Driven Approach to the Multi-Facility Location Problem
 
 This project was developed as part of the **IE 440: Nonlinear Models** course at **Boğaziçi University** by me and my friends Mete Kalkan and Yiğit Bostancı.
 
