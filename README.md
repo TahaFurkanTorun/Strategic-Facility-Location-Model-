@@ -10,6 +10,7 @@ This analytical challenge is at the core of strategic business decisions, direct
 This repository contains the full Python implementation (using Pandas, Matplotlib, and Scipy) from data ingestion to final strategic recommendations.
 
 ### 📈 Final Recommendation: Optimized Network Map
+<img width="850" height="452" alt="image" src="https://github.com/user-attachments/assets/13c611c7-9c7a-404e-a204-25c735ece916" />
 
 
 
